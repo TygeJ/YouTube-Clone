@@ -9,7 +9,7 @@
     "test:watch": "npm run test -- --watch",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "start": "react-scripts build",
+    "start": "react-scripts start",
     "build": "react-scripts build"
   },
   "author": "",
